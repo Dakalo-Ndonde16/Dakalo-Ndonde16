@@ -1,5 +1,5 @@
 # Hi I'm Dakalo, an 
-<a href="https://github.com/Dakalo-Ndonde15/"><img src="https://img.shields.io/badge/Cloud_administrator-blue?style=flat-square&logo=youtube&logoColor=blue&logoSize=--auto"></a>
+<a href="https://github.com/Dakalo-Ndonde15/"><img src="https://img.shields.io/badge/-CLOUD_ADMINISTRATOR-blue?style=for-the-badge&logoSize=auto&labelColor=%230096FF&color=%230096FF"></a>
 <a href="https://www.youtube.com/@dakalondonde"><img src="https://img.shields.io/badge/-YOUTUBER-red?style=for-the-badge&logo=youtube&logoSize=auto&color=%23E10600"></a>&nbsp;☺
 
 <h2>🖥️ CLOUD ADMINISTRATOR PROJECTS:🖥️</h2>
