@@ -18,24 +18,20 @@
    - [Creating Setting up Applying and Testing Group Policy Management](https://github.com/Dakalo-Ndonde15/Active-Directory/blob/Domain/Group-Policy-Management.md)
    - [Implementing Security Policies](https://github.com/Dakalo-Ndonde15/Active-Directory/blob/Domain/Security-Policies.md)
    - [Setting up Network Sharing on Windows Server Shared VS NTSF](https://github.com/Dakalo-Ndonde15/Active-Directory/blob/Domain/Network-Sharing.md)
--  <b>Networking</b>(Cisco Packet Tracer)
-   - [VLAN commands and verification](https://github.com/Dakalo-Ndonde15/Switch-Configuration)
-   - [Setting up LAN with DHCP](https://github.com/Dakalo-Ndonde15/Switch-Configuration/blob/Cisco-Packet-Tracer/LAN-Setup.md)
-   - [Console and SSH Connection for Switch Configuration](https://github.com/Dakalo-Ndonde15/Switch-Configuration/blob/Cisco-Packet-Tracer/SSH-Switch-Config.md)
-   - [DHCP Server Setup with Inter-VLAN Routing](https://github.com/Dakalo-Ndonde15/Switch-Configuration/blob/Cisco-Packet-Tracer/DHCP-Server-Setup.md)
-   - [Core and Access Switch, Voice VLAN](https://github.com/Dakalo-Ndonde15/Switch-Configuration/blob/Cisco-Packet-Tracer/VLAN-Configuration.md)
-   - [Port Security and Best Practices](https://github.com/Dakalo-Ndonde15/Switch-Configuration/blob/Cisco-Packet-Tracer/Port-Security.md)
   - <b>Powershell</b>
      - [JWipe - Disk Sanitization](https://github.com/Dakalo-Ndonde15/Jwipe.PowerShell)
        
  <h2>📚Certifications📚</h2>
  
-- [Google IT Support](https://www.coursera.org/account/accomplishments/professional-cert/2UTCZBLMU7VY)
+- [CLOUD AS A PLATFORM BACHELOR'S](https://www.coursera.org/account/accomplishments/professional-cert/2UTCZBLMU7VY)
+- [CLOUD AS A PLATFORM MASTERS'S](https://www.coursera.org/account/accomplishments/professional-cert/2UTCZBLMU7VY)
 - [Generative AI Fundamentals](https://www.coursera.org/account/accomplishments/specialization/H4WKY1NGRQPA)
-- [IT Ticket Management with Typeform](https://www.coursera.org/account/accomplishments/verify/FQYRMV64QHYX)
-- [Agile with Atlassian Jira](https://www.coursera.org/account/accomplishments/verify/5OCJ2Z3V9C4N)
-- [IT Support Technical Skills Helpdesk](https://www.udemy.com/certificate/UC-7e49c670-8029-46f4-99f3-65594d92d781/)
-  [Helpdesk Ticketing Systems Training](https://www.udemy.com/course/help-desk-ticketing-systems-training/learn/lecture/35230818?start=465#overview)
+- [RED HAT LINUX AND PRIVATE CLOUD ADMINSTRATION](https://www.coursera.org/account/accomplishments/verify/FQYRMV64QHYX)
+- [MICROSOFT CLOUD SUPPORT ASSCOCIATE](https://www.coursera.org/account/accomplishments/specialization/H4WKY1NGRQPA)
+- [BUILDING AI CLOUD APPS WITH MICROSOFT AZURE ](https://www.coursera.org/account/accomplishments/verify/5OCJ2Z3V9C4N)
+- [MICROSOFT AZURE TRAINING ](https://www.coursera.org/account/accomplishments/verify/5OCJ2Z3V9C4N)
+- [GOOGLE CYBERSECURITY](https://www.udemy.com/certificate/UC-7e49c670-8029-46f4-99f3-65594d92d781/)
+  
 - [Active Directory Skills for IT Support Professionals](https://www.udemy.com/course/active-directory-skills-for-it-support-professionals/learn/lecture/32003824?start=0#overview)
 
 <h2>📺 Popular YouTube Videos</h2>
