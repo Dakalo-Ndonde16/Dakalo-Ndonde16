@@ -4,27 +4,15 @@
 
 <h2>🖥️ CLOUD ADMINISTRATOR PROJECTS:🖥️</h2>
 
-- <b>osTicket: Creating a Ticketing System for Help Desk (osTicket)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Dakalo-Ndonde15/osTicket-Prereqs)(Azure)
-  -  [osTicket: Prerequisites and Installation](https://github.com/Dakalo-Ndonde15/osTicket-Prereqs/blob/osTicket/osTicket-Pereqs-V2.md)(Apache)
-  - [osTicket: Post-Installation Configuration](https://github.com/Dakalo-Ndonde15/osTicket-Prereqs/blob/osTicket/Post-Install-Config.md)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Dakalo-Ndonde15/osTicket-Prereqs/blob/osTicket/Ticket-Lifecycle-Examples.md)
 - <b>Microsoft Azure </b>
   - [Setting Up Active Directory using Azure VMs](https://github.com/Dakalo-Ndonde15/Configure-AD)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/Dakalo-Ndonde15/Azure-Network-Protocols)
   - [RDP On Azure Sentinel](https://github.com/Dakalo-Ndonde15/Configure-AD/blob/NSG/RDP-on-Azure-Sentinel.md)
-- <b>Implementing Ticketing System via Jirak</b>
-  - [Implementing Ticketing System via Jira](https://github.com/Dakalo-Ndonde15/Ticketing-System)
 - <b>Virtual Private Network</b>
   - [VPN Setup in Virtual Machine](https://github.com/Dakalo-Ndonde15/Setting-Up-A-VPN)
-- <b>Office365-Admin</b>
-   - [Setting Up and Managing Office 365 for Small Business Operations](https://github.com/Dakalo-Ndonde15/Setting-Up-A-VPN/blob/365/O365-Admin.md)
 - <b>Hyper V</b>
    - [Hyper-V-Manager-Installation](https://github.com/Dakalo-Ndonde15/Setting-Up-A-VPN/blob/365/Hyper-V-Manager-Installation.md)
    - [Home Lab: Active Directory AD & PowerShell](https://github.com/Dakalo-Ndonde15/HomeLab-AD-Powershell)
-- <b>ServiceNow Service Portal</b>
-   - [Service Now Service Portal Lab ](https://github.com/Dakalo-Ndonde15/Setting-Up-A-VPN/blob/365/ServiceNow-Service-Portal.md)
-   - [Service Now IT Support Ticketing ](https://github.com/Dakalo-Ndonde15/Setting-Up-A-VPN/blob/365/ServiceNow-Ticketing.md)
 - <b>Active Directory</b>
    - [Active Directory ](https://github.com/Dakalo-Ndonde15/Active-Directory)
    - [Creating Setting up Applying and Testing Group Policy Management](https://github.com/Dakalo-Ndonde15/Active-Directory/blob/Domain/Group-Policy-Management.md)
