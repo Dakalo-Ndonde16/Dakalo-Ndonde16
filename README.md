@@ -23,15 +23,18 @@
        
  <h2>📚Certifications📚</h2>
  
+- [CLOUD AS A PLATFORM MASTER'S](https://www.coursera.org/account/accomplishments/professional-cert/2UTCZBLMU7VY)
 - [CLOUD AS A PLATFORM BACHELOR'S](https://www.coursera.org/account/accomplishments/professional-cert/2UTCZBLMU7VY)
-- [CLOUD AS A PLATFORM MASTERS'S](https://www.coursera.org/account/accomplishments/professional-cert/2UTCZBLMU7VY)
 - [Generative AI Fundamentals](https://www.coursera.org/account/accomplishments/specialization/H4WKY1NGRQPA)
 - [RED HAT LINUX AND PRIVATE CLOUD ADMINSTRATION](https://www.coursera.org/account/accomplishments/verify/FQYRMV64QHYX)
 - [MICROSOFT CLOUD SUPPORT ASSCOCIATE](https://www.coursera.org/account/accomplishments/specialization/H4WKY1NGRQPA)
 - [BUILDING AI CLOUD APPS WITH MICROSOFT AZURE ](https://www.coursera.org/account/accomplishments/verify/5OCJ2Z3V9C4N)
 - [MICROSOFT AZURE TRAINING ](https://www.coursera.org/account/accomplishments/verify/5OCJ2Z3V9C4N)
 - [GOOGLE CYBERSECURITY](https://www.udemy.com/certificate/UC-7e49c670-8029-46f4-99f3-65594d92d781/)
-  
+
+- [AWS FUNDAMEMTALS](https://www.coursera.org/account/accomplishments/verify/5OCJ2Z3V9C4N)
+- [AWS CLOUD SUPPORT ASSOCIATE](https://www.coursera.org/account/accomplishments/verify/5OCJ2Z3V9C4N)
+- [AWS CLOUD PRACTITIONER CERTIFICATION SPECIALIZATION](https://www.coursera.org/account/accomplishments/verify/5OCJ2Z3V9C4N)
 - [Active Directory Skills for IT Support Professionals](https://www.udemy.com/course/active-directory-skills-for-it-support-professionals/learn/lecture/32003824?start=0#overview)
 
 <h2>📺 Popular YouTube Videos</h2>
