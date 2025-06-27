@@ -30,7 +30,9 @@
 - [MICROSOFT CLOUD SUPPORT ASSCOCIATE](https://www.coursera.org/professional-certificates/microsoft-cloud-support-associate)
 - [BUILDING AI CLOUD APPS WITH MICROSOFT AZURE ](https://www.coursera.org/specializations/building-ai-cloud-apps-microsoft-azure)
 - [MICROSOFT AZURE TRAINING ](https://www.kevtechitsupport.com/products/microsoft-azure-training)
+- 
 - [GOOGLE CYBERSECURITY](https://www.coursera.org/professional-certificates/google-cybersecurity)
+- [ALIBABA CLOUD COMPUTING SPECIALIZATION](https://www.coursera.org/specializations/alibabacloud)
 
 - [AWS FUNDAMEMTALS](https://www.coursera.org/specializations/aws-fundamentals)
 - [AWS CLOUD SUPPORT ASSOCIATE](https://www.coursera.org/professional-certificates/aws-cloud-support-associate)
